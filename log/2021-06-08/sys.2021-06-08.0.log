@@ -1,0 +1,5 @@
+2021-06-08 16:53:49,138 INFO (StartupInfoLogger.java:55)- Starting DemoApplication using Java 14.0.2 on xiejingshengdeMacBook-Pro.local with PID 4213 (/Users/yejingsheng/Documents/myCode/java/demo/target/classes started by yejingsheng in /Users/yejingsheng/Documents/myCode/java/demo)
+2021-06-08 16:53:49,139 INFO (SpringApplication.java:663)- No active profile set, falling back to default profiles: default
+2021-06-08 16:53:49,936 INFO (StartupInfoLogger.java:61)- Started DemoApplication in 1.062 seconds (JVM running for 1.555)
+2021-06-08 16:53:57,078 INFO (DemoController.java:14)- 商品id=1
+2021-06-08 17:05:42,291 INFO (DemoController.java:14)- 商品id=2
